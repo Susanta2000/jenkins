@@ -1,0 +1,75 @@
+https://nordicapis.com/testing-owasps-top-10-api-security-vulnerabilities/
+
+
+AWS ARN creation: https://towardsthecloud.com/amazon-resource-names-arns
+
+Scan Dashboard: https://enterprise-demo.portswigger.net/scans/1647?tab=timeline&urlsGridFilter=withissues
+PortSwigger API Scanner: https://portswigger.net/burp/enterprise/pricing
+
+Vulnerable API detection: https://resources.infosecinstitute.com/topic/aws-apis-abuse-watch-out-for-these-vulnerable-apis/
+
+Kubernetes and Cloud Native Associate: https://youtu.be/AplluksKvzI 
+
+==============Multicluster monitoring with falco================
+https://aws.amazon.com/blogs/security/continuous-runtime-security-monitoring-with-aws-security-hub-and-falco/
+https://sysdig.com/blog/multi-cluster-security-firelens/
+https://aws.amazon.com/blogs/security/continuous-runtime-security-monitoring-with-aws-security-hub-and-falco/
+https://github.com/aws-samples/aws-securityhub-falco-ecs-eks-integration
+https://github.com/sysdiglabs/falco-aws-firelens-integration
+
+========Cloudwatch Logs==========
+https://www.datadoghq.com/blog/monitoring-cloudtrail-logs/
+
+====Cross Account Attack==========
+https://logrhythm.com/blog/detecting-aws-unauthenticated-cross-account-attacks/
+
+======SYSDIG=======
+https://sysdig.com/learn-cloud-native/cloud-security/how-to-secure-aws-ec2/
+
+====AWS Resources Permissions doc===============
+https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonguardduty.html
+
+======NVD DATABASE======
+https://nvd.nist.gov/developers/vulnerabilities
+
+===========FALCO SECURITY========
+https://github.com/falcosecurity/charts/blob/master/falcosidekick/README.md
+https://github.com/falcosecurity/charts/blob/master/falco/values.yaml
+https://github.com/falcosecurity/falco/tree/b76420fe471f8af220d742543637b5aae02ee556/rules
+https://sysdig.com/blog/sysdig-secure-docker-run-time-security/
+
+==========LEARN AWS==========
+https://www.learnaws.org/2023/02/14/aws-boto3-paginator/
+
+====AWS EKS CLUSTER ACCESS TO IAM USERS AND ROLE ARN====
+https://youtu.be/cN0GKuMlSFY
+
+======kuberentes client generator==========
+https://github.com/kubernetes-client/gen
+
+=============kuberentes code generator=========
+https://github.com/kubernetes/code-generator
+
+=================kubernetes-client python============
+https://github.com/kubernetes-client/python (python/kuberentes/docs)
+
+===============================
+Kubernetes Compliance with Calico
+
+NVD API key = 6f25ed13-5cff-4484-b1a2-a3fe119c7414
+===============================
+Gitlab CLI live demo: https://www.youtube.com/live/pBe4t1CD8Fc?feature=share
+
+===================================
+All AWS services permissions
+https://aws.permissions.cloud/iam/ecs
+
+=================================
+Azure Labs: https://azuredevopslabs.com/labs/vstsextend/terraform/
+
+========================================
+HTTPX: https://www.python-httpx.org/
+
+===================================
+Best practice in Fastapi: https://betterprogramming.pub/fastapi-best-practices-1f0deeba4fce
+
