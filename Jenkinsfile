@@ -26,7 +26,7 @@ pipeline{
         success{
             echo "Successfully completed ):"
         }
-        faliure{
+        failure{
             echo "Your project was failed :("
         }
     }
