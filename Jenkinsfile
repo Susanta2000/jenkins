@@ -1,5 +1,11 @@
+// valid conditions are [always, changed, fixed, regression, aborted, success, unsuccessful, unstable, failure, notBuilt, cleanup]
+
 pipeline{
-    agent any
+    agent {
+        docker {
+            image '3.10-slim'
+        }
+    }
 
     environment{
         PYTHON_VERSION="3.10"
