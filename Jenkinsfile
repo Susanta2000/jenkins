@@ -15,7 +15,7 @@ pipeline{
         }
         stage("Run"){
             steps{
-                sh 'python3 sum.py'
+                sh 'python sum.py'
             }
         }
     }
