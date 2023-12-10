@@ -3,7 +3,7 @@
 pipeline{
     agent {
         docker {
-            image '3.10-slim'
+            image 'python:3.9-alpine'
         }
     }
     environment{
