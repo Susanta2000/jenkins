@@ -13,7 +13,7 @@ pipeline {
     stages {
         stage("Build") {
             steps {
-                echo "Your project is being build..."
+                echo "Your project is being build for dev branch"
                 echo "Successfully build your project"
             }
         }
@@ -26,13 +26,13 @@ pipeline {
 
     post {
         always {
-            echo "Pipeline Completed ):"
+            echo "Pipeline Completed for dev ):"
         }
         success {
             echo "Pipeline Successfully completed ):"
         }
         failure {
-            echo "Pipeline failed :("
+            echo "Pipeline failed for dev :("
         }
     }
 }
